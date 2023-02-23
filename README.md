@@ -1,2 +1,2 @@
 # Course-Project-
-This is few of my project work , that i have added in this repository. 
+I have successfully completed multiple projects in data collection, cleaning, and analysis. I have utilized Python to perform exploratory data analysis, develop predictive models, and generate insights into various business operations. 
